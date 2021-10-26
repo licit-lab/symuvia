@@ -1,0 +1,12 @@
+[submodule "symuflow"]
+	path = symuflow
+	url = https://github.com/licit-lab/symuflow.git
+[submodule "symumaster"]
+	path = symumaster
+	url = https://github.com/licit-lab/symumaster.git
+[submodule "symucore"]
+	path = symucore
+	url = https://github.com/licit-lab/symucore.git
+[submodule "symupy"]
+	path = symupy
+	url = https://github.com/licit-lab/symupy.git
